@@ -8,7 +8,7 @@ The following permissions can be used to restrict functionality within the plugi
 
 * **coreprotect.\*** *(default: op)*  
   Allows access to all of the CoreProtect commands.  
-  &nbsp;
+  blokencjusz;
 * **coreprotect.inspect** *(default: op)*  
   Allows access to the CoreProtect inspect command.  
   &nbsp;
